@@ -1,0 +1,3 @@
+https://azure.microsoft.com/en-in/documentation/articles/powershell-install-configure/
+
+http://www.cloudcomputingadmin.com/articles-tutorials/windows-azure/introduction-powershell-windows-azure.html
